@@ -19,5 +19,8 @@
   "homepage": "https://github.com/menjadi-react-developer/challenge-js-logic-flow#readme",
   "devDependencies": {
     "jest": "^28.0.3"
+  },
+  "dependencies": {
+    "junit": "^1.4.9"
   }
 }
