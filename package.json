@@ -1,0 +1,23 @@
+{
+  "name": "challenge-js-logic-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --forceExit --runInBand --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menjadi-react-developer/challenge-js-logic-flow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menjadi-react-developer/challenge-js-logic-flow/issues"
+  },
+  "homepage": "https://github.com/menjadi-react-developer/challenge-js-logic-flow#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
